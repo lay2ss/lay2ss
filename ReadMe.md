@@ -1,6 +1,4 @@
-# 💫 About Me:
 Hi, I'm Laís!  <br><br>I'm a Computer Science student and a web developer. <br><br>🔹 Currently diving deep into Front-end development, sharpening my skills in modern web technologies.  <br>🔹 Working on my portfolio, showcasing projects that highlight creativity and technical growth.  <br>🔹 Based in Brazil, exploring the world of code and design one project at a time!  <br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lay2ss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laís-correia-dev) 
